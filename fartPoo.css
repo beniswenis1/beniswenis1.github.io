@@ -1,0 +1,45 @@
+body {
+    background-color: burlywood;
+}
+
+.header1    {
+    padding-left: 42%;
+    padding-right: 42%;
+    font-size: 100%, 100%, 16%;
+    text-decoration-line: overline;
+    text-shadow: 0 0 1rem black;
+    color: white;
+    background-color: darkslategray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image  {
+    padding-left: 30%;
+    padding-right: 30%;
+    max-width: 40%;
+    max-height: 40%;
+}
+
+.paragraph  {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+    text-shadow: black;
+}
+
+.anchor {
+    padding-left: 25%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link-look  {
+    padding-left: 30%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link-look:hover    {
+    color:blueviolet;
+}
+
